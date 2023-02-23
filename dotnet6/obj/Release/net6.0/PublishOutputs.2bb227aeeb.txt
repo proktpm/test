@@ -1,0 +1,7 @@
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\dotnet6.exe
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\dotnet6.dll
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\dotnet6.deps.json
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\dotnet6.runtimeconfig.json
+D:\dotnet6\dotnet6\obj\Release\net6.0\PubTmp\Out\dotnet6.pdb
